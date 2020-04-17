@@ -1,11 +1,3 @@
-
-Main()
-{
-Function1()
-{ 
-    //initial code
-}
-=======
 Main() 
 { 
 Function1() 
@@ -16,7 +8,6 @@ Function2()
 { 
 //Developer A Code 
 } 
->>>>>>> Develop
 
 }
 
